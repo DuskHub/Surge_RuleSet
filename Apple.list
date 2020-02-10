@@ -16,10 +16,16 @@ USER-AGENT,geod*
 USER-AGENT,locationd*
 USER-AGENT,Maps*
 USER-AGENT,TestFlight*
+DOMAIN-SUFFIX,aaplimg.com
+DOMAIN-SUFFIX,apple.co
 DOMAIN-SUFFIX,apple.com
+DOMAIN-SUFFIX,apple-cloudkit.com
+DOMAIN-SUFFIX,appstore.com
+DOMAIN-SUFFIX,cdn-apple.com
+DOMAIN-SUFFIX,crashlytics.com
 DOMAIN-SUFFIX,icloud.com
 DOMAIN-SUFFIX,icloud-content.com
 DOMAIN-SUFFIX,itunes.com
 DOMAIN-SUFFIX,me.com
 DOMAIN-SUFFIX,mzstatic.com
-DOMAIN,api.smoot.apple.cn
+DOMAIN,www-cdn.icloud.com.akadns.net
